@@ -14,7 +14,7 @@ urlpatterns = [
     # path('icons/',views.icons1),
     # path('forms/',views.forms1),
     # path('register/',views.register),
-    path('portfolio/',views.portfolio),
+    path('/',views.portfolio),
     # path('',views.login1),
     # path('calender/',views.calender1),
     # path('logout/',views.logoutdata),
